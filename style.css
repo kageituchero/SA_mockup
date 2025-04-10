@@ -1,10 +1,32 @@
-body{background-image: url('Imagens/Blue\ background.jpg');
+body {
+    background-image: url('Imagens/Blue\ background.jpg');
     background-size: 600px;
+}
+
+form {
+    text-align: left;
 
 }
 
-form{text-align: center;}
+.logoImg {
+    width: 200px;
+}
 
 .logo{
-width: 200px;
+    text-align: center;
+}
+
+.campo {
+    background-color: white;
+    border-radius: 50px;
+}
+
+.radious{
+    border: 0px;
+    width:250px ;
+}
+
+.entrar{
+    border-radius: 50px;
+    text-align: center;
 }

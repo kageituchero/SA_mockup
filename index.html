@@ -11,23 +11,28 @@
 </head>
 
 <body>
-    <header>
-        <img class="logo" src="Imagens/Logo.png" alt="Logo">
+    <header class="logo">
+        <img class="logoImg" src="Imagens/Logo.png" alt="Logo">
         <H2>Login</H2>
     </header>
 
     <form action="" id="maquinistaForm">
 
-        <label for="Codigo">Email ou Codigo:</label>
-        <input type="text" name="Codigo" id="Codigo_maquinista" required>
+        <div class="campo">
+            <label for="Codigo">Email ou Codigo: </label>
+            <input class="radious" type="text" name="Codigo" id="Codigo_maquinista" required>
+        </div>
 
         <br>
 
-        <label for="Senha">Senha:</label>
-        <input type="password" name="Senha" id="senha_maquinista">
+        <div class="campo">
+            <label for="Senha">Senha:</label>
+            <input class="radious" type="password" name="Senha" id="senha_maquinista">
+        </div>
+
         <br>
 
-        <button type="button" onclick="validarFormulario()">Entrar</button>
+        <button class="entrar" type="button" onclick="validarFormulario()">Entrar</button>
 
     </form>
 
