@@ -68,11 +68,15 @@ header {
     color: white;
     justify-content: space-between;
     display: flex;
-    padding: 5px;
+    padding: 10px;
 }
 
 .logoMenu {
     width: 79px;
+}
+
+.mapa {
+    width: 370px;
 }
 
 .grafico-pizza {
@@ -127,4 +131,11 @@ header {
 
 .emergencial {
     background-color: #ff9800;
+}
+
+.branco {
+    background-color: white;
+    border-radius: 50px;
+    border: 0px;
+    padding: 15px;
 }
