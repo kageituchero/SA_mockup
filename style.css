@@ -62,7 +62,6 @@ body {
 
 #menu_linha_2 {
     display: flex;
-<<<<<<< HEAD
     justify-content: space-between;
     margin: 30px;
 }
@@ -72,64 +71,7 @@ body {
     justify-content: space-between;
     margin: 30px;
 }
-=======
-    padding: 5px;
-}
 
 .logoMenu{
     width: 79px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  .grafico-pizza {
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-    background: conic-gradient(
-      #4caf50 0% 30%,           /* Preventiva */
-      #f44336 30% 55%,          /* Corretiva */
-      #2196f3 55% 75%,          /* Inspeção */
-      #ff9800 75% 100%          /* Emergencial */
-    );
-    position: relative;
-    transition: transform 0.3s ease;
-  }
-  
-  .grafico-pizza:hover {
-    transform: scale(1.05);
-  }
-  
-  .legenda {
-    margin-top: 20px;
-  }
-  
-  .legenda div {
-    display: flex;
-    align-items: center;
-    margin-bottom: 8px;
-  }
-  
-  .cor {
-    width: 20px;
-    height: 20px;
-    margin-right: 10px;
-    border-radius: 4px;
-  }
-  
-  .preventiva { background-color: #4caf50; }
-  .corretiva { background-color: #f44336; }
-  .inspecao  { background-color: #2196f3; }
-  .emergencial { background-color: #ff9800; }
->>>>>>> db1f7e9e5c2f3f7e2c8f658d7626e0e6aa6cedd2
