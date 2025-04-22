@@ -38,3 +38,26 @@ body {
     background-color: initial;
     border: 0px;
 }
+#menu_linha_1{
+    display: flex;
+    margin: 30px;
+}
+
+#menu_linha_2{
+    display: flex;
+    margin: 30px;
+    }
+
+#menu_linha_3{
+    display: flex;
+    margin: 30px;
+    }
+
+.Rotas{
+background-color: white;
+border-radius: 20px;
+margin-left: 20px;
+}
+.RotasImg {
+    width: 150px;
+}
