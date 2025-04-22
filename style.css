@@ -70,3 +70,7 @@ header{
     display: flex;
     padding: 5px;
 }
+
+.logoMenu{
+    width: 79px;
+}
