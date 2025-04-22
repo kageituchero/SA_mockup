@@ -71,6 +71,23 @@ body {
     margin: 30px;
 }
 
-.logoMenu{
+.Rotas {
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.RotasImg {
+    width: 150px;
+}
+
+header {
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    padding: 5px;
+}
+
+.logoMenu {
     width: 79px;
 }
