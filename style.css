@@ -38,26 +38,39 @@ body {
     background-color: initial;
     border: 0px;
 }
+
 #menu_linha_1{
     display: flex;
+    justify-content: space-between;
     margin: 30px;
 }
 
+    .Texto{
+        text-align: center;
+        margin: 1px;
+    }
+    .Rotas{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    }
+    .Avisos{
+        background-color: white;
+        border-radius: 20px;
+        padding: 10px;
+        }
+    .Tamanho_img {
+        width: 110px;
+    }
+
 #menu_linha_2{
     display: flex;
+    justify-content: space-between;
     margin: 30px;
     }
 
 #menu_linha_3{
     display: flex;
+    justify-content: space-between;
     margin: 30px;
     }
-
-.Rotas{
-background-color: white;
-border-radius: 20px;
-margin-left: 20px;
-}
-.RotasImg {
-    width: 150px;
-}
