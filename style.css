@@ -12,7 +12,7 @@ body {
     width: 200px;
 }
 
-.logo{
+.logo {
     text-align: center;
     color: white;
 }
@@ -22,163 +22,109 @@ body {
     border-radius: 50px;
 }
 
-.radious{
+.radious {
     border: 0px;
-    width:250px ;
+    width: 250px;
 }
 
-.entrar{
+.entrar {
     border-radius: 50px;
     border: 0px;
     text-align: center;
 }
 
-.esqueci{
+.esqueci {
     color: white;
     background-color: initial;
     border: 0px;
 }
 
-#menu_linha_1{
+#menu_linha_1 {
     display: flex;
     margin: 30px;
 }
 
-#menu_linha_2{
+#menu_linha_2 {
     display: flex;
     margin: 30px;
-    }
+}
 
-#menu_linha_3{
+#menu_linha_3 {
     display: flex;
     margin: 30px;
-    }
+}
 
-.Rotas{
-background-color: white;
-border-radius: 20px;
-margin-left: 20px;
+.Rotas {
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 20px;
 }
 
 .RotasImg {
     width: 150px;
 }
 
-header{
+header {
     color: white;
     justify-content: space-between;
     display: flex;
     padding: 5px;
 }
 
-.logoMenu{
+.logoMenu {
     width: 79px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .grafico-pizza {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background: conic-gradient(
-      #4caf50 0% 30%,           /* Preventiva */
-      #f44336 30% 55%,          /* Corretiva */
-      #2196f3 55% 75%,          /* Inspeção */
-      #ff9800 75% 100%          /* Emergencial */
-    );
+    background: conic-gradient(#4caf50 0% 30%,
+            /* Preventiva */
+            #f44336 30% 55%,
+            /* Corretiva */
+            #2196f3 55% 75%,
+            /* Inspeção */
+            #ff9800 75% 100%
+            /* Emergencial */
+        );
     position: relative;
     transition: transform 0.3s ease;
 }
-  
+
 .grafico-pizza:hover {
     transform: scale(1.05);
 }
-  
+
 .legenda {
     margin-top: 20px;
 }
-  
+
 .legenda div {
     display: flex;
     align-items: center;
     margin-bottom: 8px;
 }
-  
+
 .cor {
     width: 20px;
     height: 20px;
     margin-right: 10px;
     border-radius: 4px;
 }
-  
-.preventiva { background-color: #4caf50; }
-.corretiva { background-color: #f44336; }
-.inspecao  { background-color: #2196f3; }
-.emergencial { background-color: #ff9800; }
+
+.preventiva {
+    background-color: #4caf50;
+}
+
+.corretiva {
+    background-color: #f44336;
+}
+
+.inspecao {
+    background-color: #2196f3;
+}
+
+.emergencial {
+    background-color: #ff9800;
+}
