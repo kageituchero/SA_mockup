@@ -38,7 +38,7 @@ body {
     border: 0px;
 }
 
-#menu_linha_1 {
+#menu_linha {
     display: flex;
     justify-content: space-between;
     margin: 30px;
@@ -57,18 +57,6 @@ body {
 
 .Tamanho_img {
     width: 110px;
-}
-
-#menu_linha_2 {
-    display: flex;
-    justify-content: space-between;
-    margin: 30px;
-}
-
-#menu_linha_3 {
-    display: flex;
-    justify-content: space-between;
-    margin: 30px;
 }
 
 .logoMenu{
