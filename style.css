@@ -85,13 +85,10 @@ header {
     color: white;
     justify-content: space-between;
     display: flex;
+    padding: 5px;
     padding: 10px;
 }
 
 .logoMenu {
     width: 79px;
-}
-
-.mapa{
-    width: 370px;
 }
