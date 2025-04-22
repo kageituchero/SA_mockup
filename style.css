@@ -66,3 +66,56 @@ margin-left: 20px;
 .flex{
     display: flex;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  .grafico-pizza {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: conic-gradient(
+      #4caf50 0% 30%,           /* Preventiva */
+      #f44336 30% 55%,          /* Corretiva */
+      #2196f3 55% 75%,          /* Inspeção */
+      #ff9800 75% 100%          /* Emergencial */
+    );
+    position: relative;
+    transition: transform 0.3s ease;
+  }
+  
+  .grafico-pizza:hover {
+    transform: scale(1.05);
+  }
+  
+  .legenda {
+    margin-top: 20px;
+  }
+  
+  .legenda div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .cor {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 4px;
+  }
+  
+  .preventiva { background-color: #4caf50; }
+  .corretiva { background-color: #f44336; }
+  .inspecao  { background-color: #2196f3; }
+  .emergencial { background-color: #ff9800; }
