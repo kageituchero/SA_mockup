@@ -12,7 +12,7 @@ body {
     width: 200px;
 }
 
-.logo{
+.logo {
     text-align: center;
     color: white;
 }
@@ -22,55 +22,52 @@ body {
     border-radius: 50px;
 }
 
-.radious{
+.radious {
     border: 0px;
-    width:250px ;
+    width: 250px;
 }
 
-.entrar{
+.entrar {
     border-radius: 50px;
     border: 0px;
     text-align: center;
 }
 
-.esqueci{
+.esqueci {
     color: white;
     background-color: initial;
     border: 0px;
 }
 
-#menu_linha_1{
+#menu_linha_1 {
     display: flex;
     justify-content: space-between;
     margin: 30px;
 }
 
-    .Texto{
-        text-align: center;
-        margin: 1px;
-    }
-    .Rotas{
+.Texto {
+    text-align: center;
+    margin: 1px;
+}
+
+.botao {
     background-color: white;
     border-radius: 20px;
     padding: 10px;
-    }
-    .Avisos{
-        background-color: white;
-        border-radius: 20px;
-        padding: 10px;
-        }
-    .Tamanho_img {
-        width: 110px;
-    }
+}
 
-#menu_linha_2{
+.Tamanho_img {
+    width: 110px;
+}
+
+#menu_linha_2 {
     display: flex;
     justify-content: space-between;
     margin: 30px;
-    }
+}
 
-#menu_linha_3{
+#menu_linha_3 {
     display: flex;
     justify-content: space-between;
     margin: 30px;
-    }
+}
