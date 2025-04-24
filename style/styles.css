@@ -138,3 +138,10 @@ body {
     border: 0px;
     padding: 15px;
 }
+
+.cinza{
+    background-color: rgb(223, 219, 219);
+    border-radius: 30px;
+    border: 0px;
+    padding: 15px;
+}
