@@ -1,0 +1,148 @@
+body {
+    background-image: url('..//assets/icons/Blue\ background.jpg');
+    background-size: 600px;
+}
+
+.header {
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+}
+
+.logoMenu {
+    width: 79px;
+}
+
+/*LOGIN*/
+
+.loGin {
+    text-align: left;
+}
+
+.logoImg {
+    width: 200px;
+}
+
+.logo {
+    text-align: center;
+    color: white;
+}
+
+.campo {
+    background-color: white;
+    border-radius: 50px;
+}
+
+.radious {
+    border: 0px;
+    width: 250px;
+}
+
+.entrar {
+    border-radius: 50px;
+    border: 0px;
+    text-align: center;
+}
+
+.esqueci {
+    color: white;
+    background-color: initial;
+    border: 0px;
+}
+
+/*MENU*/
+
+#menu_linha_1 {
+    display: flex;
+    margin: 30px;
+}
+
+#menu_linha_2 {
+    display: flex;
+    margin: 30px;
+}
+
+#menu_linha_3 {
+    display: flex;
+    margin: 30px;
+}
+
+/*ROTAS*/
+
+.Rotas {
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.RotasImg {
+    width: 150px;
+}
+
+.mapa {
+    width: 370px;
+}
+
+/*MANUTEÇÃO*/
+
+.grafico-pizza {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: conic-gradient(#4caf50 0% 30%,
+            /* Preventiva */
+            #f44336 30% 55%,
+            /* Corretiva */
+            #2196f3 55% 75%,
+            /* Inspeção */
+            #ff9800 75% 100%
+            /* Emergencial */
+        );
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+.grafico-pizza:hover {
+    transform: scale(1.05);
+}
+
+.legenda {
+    margin-top: 20px;
+}
+
+.legenda div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.cor {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 4px;
+}
+
+.preventiva {
+    background-color: #4caf50;
+}
+
+.corretiva {
+    background-color: #f44336;
+}
+
+.inspecao {
+    background-color: #2196f3;
+}
+
+.emergencial {
+    background-color: #ff9800;
+}
+
+.branco {
+    background-color: white;
+    border-radius: 50px;
+    border: 0px;
+    padding: 15px;
+}
