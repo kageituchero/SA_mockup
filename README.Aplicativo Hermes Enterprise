@@ -1,0 +1,34 @@
+Visão Geral
+
+O aplicativo Hermes Enterprise foi desenvolvido para otimizar as operações e fornecer informações cruciais tanto para os trabalhadores quanto para a gestão da Hermes Enterprise. O aplicativo oferece funcionalidades para gerenciar rotas, distribuir avisos, lidar com solicitações de manutenção, exibir dashboards operacionais, gerar relatórios e gerenciar informações de funcionários (para a gestão).   
+
+Funcionalidades
+
+Login: Os trabalhadores podem fazer login usando seu email ou código e senha. Uma opção "Esqueci minha senha" está disponível.   
+Rotas: Os usuários podem acessar informações sobre rotas.   
+Avisos: Os usuários podem receber e visualizar avisos e notificações importantes.   
+Manutenção: O aplicativo inclui uma funcionalidade de gestão de manutenção para enviar e acompanhar solicitações de manutenção.   
+Dashboard: Fornece um dashboard com dados operacionais chave, incluindo velocidade, tempo de viagem, distância, consumo de combustível e informações de carga.   
+Relatórios: Gera relatórios sobre desempenho, consumo de energia e eficiência operacional.   
+Gestão de Funcionários (para Gestão): Permite que a gestão visualize, pesquise e adicione informações de funcionários, incluindo nome, código e outros detalhes.   
+Papéis de Usuário
+
+O aplicativo parece ter pelo menos dois papéis de usuário distintos:
+
+Trabalhador: Acesso a funcionalidades como Rotas, Avisos, Manutenção, Dashboard e Relatórios.   
+Gestão/Chefe: Possui todas as funcionalidades de um trabalhador, além da capacidade de gerenciar informações de funcionários.   
+Telas Principais
+
+Tela de Login: Para autenticação de usuário.   
+Tela de Esqueci Minha Senha: Permite que os usuários redefinam suas senhas.   
+Menu Funcionário: Menu principal para trabalhadores.   
+Menu Chefe: Menu principal para gestores/chefes.   
+Tela de Manutenção: Para gerenciar solicitações de manutenção.   
+Dashboard do Trabalhador: Exibe informações de rota e alertas para trabalhadores.   
+Tela de Dashboard: Mostra dados operacionais como velocidade, tempo de viagem, distância e combustível.   
+Tela de Dashboard de Carga: Exibe detalhes da carga.   
+Tela de Dashboard de Alertas: Exibe alertas específicos.   
+Tela de Lista de Funcionários: Lista os funcionários e permite a pesquisa.   
+Tela de Adicionar Funcionário: Para adicionar novas informações de funcionários.   
+Tela de Relatórios: Fornece acesso a vários relatórios.   
+Tela de Avisos: Lista avisos importantes.
