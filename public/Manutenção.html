@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
   <title>Manutenção</title>
 
   <script src="script.js"></script>
@@ -14,24 +14,35 @@
 </head>
 
 <body>
-  <h2>Distribuição da Manutenção dos Trens</h2>
+  <header class="header">
+    <h1>Manutenção</h1>
+    <img class="logoMenu" src="../assets/icons/manutenção.png" alt="Manutenção">
+  </header>
 
-  <div class="grafico-pizza"></div>
+  <div class="branco">
 
-  <div class="legenda">
-    <div>
-      <div class="cor preventiva"></div> Preventiva (30%)
+    <div class="grafico-pizza"></div>
+
+    <br>
+
+    <div class="legenda">
+      <div>
+        <div class="cor preventiva"></div> Preventiva (30%)
+      </div>
+      <div>
+        <div class="cor corretiva"></div> Corretiva (25%)
+      </div>
+      <div>
+        <div class="cor inspecao"></div> Inspeção (20%)
+      </div>
+      <div>
+        <div class="cor emergencial"></div> Emergencial (25%)
+      </div>
     </div>
-    <div>
-      <div class="cor corretiva"></div> Corretiva (25%)
-    </div>
-    <div>
-      <div class="cor inspecao"></div> Inspeção (20%)
-    </div>
-    <div>
-      <div class="cor emergencial"></div> Emergencial (25%)
-    </div>
+
   </div>
+
+
 </body>
 
 </html>
