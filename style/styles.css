@@ -1,6 +1,7 @@
 body {
     background-image: url('..//assets/icons/Blue\ background.jpg');
     background-size: 600px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .loGin {
@@ -139,7 +140,7 @@ body {
     padding: 15px;
 }
 
-.cinza{
+.cinza {
     background-color: rgb(223, 219, 219);
     border-radius: 30px;
     border: 0px;
