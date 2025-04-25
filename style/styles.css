@@ -39,20 +39,29 @@ body {
     border: 0px;
 }
 
-#menu_linha_1 {
+#menu_linha {
     display: flex;
-    margin: 30px;
+    justify-content: space-between;
+    margin: 40px;
 }
 
-#menu_linha_2 {
-    display: flex;
-    margin: 30px;
+.quadrado-branco{
+    background-color: white;
+    border-radius: 20px;
+    width: 120px;
+    height: 120px;
+    text-align: center;
 }
 
-#menu_linha_3 {
-    display: flex;
-    margin: 30px;
+.Tamanho_img{
+    width: 80px;
+    margin: 5px;
 }
+
+.texto{
+    margin: 1px;
+}
+
 
 .Rotas {
     background-color: white;
