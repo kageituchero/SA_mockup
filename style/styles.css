@@ -58,8 +58,27 @@ body {
     margin: 5px;
 }
 
-.texto{
+.texto-menu{
     margin: 1px;
+}
+
+.texto-carga{
+text-align: center;
+text-decoration: underline;
+font-size: xx-large;
+}
+
+.table{
+    text-align: center;
+    margin: 10px;
+    font-size: x-large;
+}
+
+.branco-carga{
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px;
 }
 
 
