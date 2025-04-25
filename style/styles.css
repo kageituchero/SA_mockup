@@ -158,3 +158,15 @@ body {
     padding: 5px;
     justify-content: space-between;
 }
+
+#minicinza {
+    border-radius: 50px;
+    text-align: center;
+}
+
+
+
+
+#logofuncionario{
+  text-align: center;
+}
