@@ -170,9 +170,12 @@ body {
 
 #minicinza {
     border-radius: 50px;
-    text-align: center;
+    background-color: rgb(223, 219, 219);
 }
 
+#minicinzaalign{
+    text-align: center;
+}
 
 
 
