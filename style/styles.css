@@ -144,7 +144,7 @@ body {
     background-color: rgb(223, 219, 219);
     border-radius: 30px;
     border: 0px;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -176,4 +176,13 @@ body {
     width: 230px;
     margin: 5px;
     margin-left: 110px;
+}
+
+.brancoAlertas {
+    background-color: white;
+    border-radius: 50px;
+    border: 0px;
+    padding: 15px;
+    height: 655px;
+    text-align: center;
 }
