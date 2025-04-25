@@ -45,7 +45,7 @@ body {
     margin: 40px;
 }
 
-.quadrado-branco{
+.quadrado-branco {
     background-color: white;
     border-radius: 20px;
     width: 120px;
@@ -53,12 +53,12 @@ body {
     text-align: center;
 }
 
-.Tamanho_img{
+.Tamanho_img {
     width: 80px;
     margin: 5px;
 }
 
-.texto{
+.texto {
     margin: 1px;
 }
 
@@ -173,9 +173,6 @@ body {
     text-align: center;
 }
 
-
-
-
-#logofuncionario{
-  text-align: center;
+#logofuncionario {
+    text-align: center;
 }
