@@ -170,9 +170,20 @@ body {
 
 #minicinza {
     border-radius: 50px;
+    background-color: rgb(223, 219, 219);
+}
+
+<<<<<<< HEAD
+#logofuncionario {
+    text-align: center;
+=======
+#minicinzaalign{
     text-align: center;
 }
 
-#logofuncionario {
-    text-align: center;
+
+
+#logofuncionario{
+  text-align: center;
+>>>>>>> 3bc390aaddbb509c0d65d2082784c632b98986b5
 }
