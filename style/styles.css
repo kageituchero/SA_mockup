@@ -12,6 +12,18 @@ body {
     width: 200px;
 }
 
+.images{
+    width: 50px;
+}
+
+.boris{
+
+}
+
+.flex{
+    display: flex;
+}
+
 .logo {
     text-align: center;
     color: white;
@@ -68,10 +80,12 @@ text-decoration: underline;
 font-size: xx-large;
 }
 
-.table{
+.table, th, td{
     text-align: center;
     margin: 10px;
     font-size: x-large;
+    border-collapse: collapse;
+    border: 1px solid black;
 }
 
 .branco-carga{
@@ -81,6 +95,13 @@ font-size: xx-large;
     padding: 15px;
 }
 
+.branco-funcionario{
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 15px;
+}
 
 .Rotas {
     background-color: white;
@@ -212,6 +233,15 @@ font-size: xx-large;
     border-radius: 30px;
     border: 0px;
     padding: 5px;
+    text-align: center;
+}
+
+.cinza_funcionario{
+    background-color: rgb(223, 219, 219);
+    border-radius: 30px;
+    border: 0px;
+    padding: 10px;
+    padding-top: 15px;
     text-align: center;
 }
 
