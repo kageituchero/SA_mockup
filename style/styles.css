@@ -166,7 +166,15 @@ font-size: xx-large;
     border-radius: 20px;
     border: 0px;
     padding: 15px;
- margin-left: 85px ;
+ 
+}
+
+.branco3 {
+    background-color: white;
+    border-radius: 20px;
+    border: 0px;
+    padding: 15px;
+ margin-left: 85px;
 }
 
 .branco2 {
