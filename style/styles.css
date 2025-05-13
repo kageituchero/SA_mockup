@@ -177,12 +177,39 @@ font-size: xx-large;
     margin-right: 85px;
 }
 
-.cinza {
+.branco_cadastro_1{
+    background-color: white;
+    border-radius: 30px;
+    border: 0px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.branco_cadastro_2{
+    background-color: white;
+    border-radius: 30px;
+    border: 0px;
+    padding: 30px;
+    padding-top: 50px;
+    margin: 15px;
+}
+
+.img_cadastro {
+    width: 200px;
+    padding-left: 9px;
+}
+
+.cinza{
     background-color: rgb(223, 219, 219);
     border-radius: 30px;
     border: 0px;
     padding: 5px;
     text-align: center;
+}
+
+.text_left{
+    text-align: left;
+    margin: 5px;
 }
 
 .Velocimetro {
@@ -199,16 +226,27 @@ font-size: xx-large;
 #minicinza {
     border-radius: 50px;
     background-color: rgb(223, 219, 219);
-}
-
-#logofuncionario {
-    text-align: center;
+    font-size: 15px;
 }
 
 #minicinzaalign {
     text-align: center;
+    margin: 15px;
 }
 
 #logofuncionario {
     text-align: center;
+}
+
+#logofuncionario {
+    text-align: center;
+}
+
+.brancoAlertas {
+    background-color: white;
+    border-radius: 50px;
+    border: 0px;
+    padding: 15px;
+    text-align: center;
+    height: 650px;
 }
