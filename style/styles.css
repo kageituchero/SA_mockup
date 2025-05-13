@@ -112,7 +112,7 @@ font-size: xx-large;
     height: 300px;
     border-radius: 50%;
     background: conic-gradient(#4caf50 0% 30%,
-            /* Preventiva */
+            /* Preventiva feito no chatgpt */
             #f44336 30% 55%,
             /* Corretiva */
             #2196f3 55% 75%,
@@ -163,9 +163,18 @@ font-size: xx-large;
 
 .branco {
     background-color: white;
-    border-radius: 50px;
+    border-radius: 20px;
     border: 0px;
     padding: 15px;
+ margin-left: 85px ;
+}
+
+.branco2 {
+    background-color: white;
+    border-radius: 20px;
+    border: 0px;
+    padding: 15px;
+    margin-right: 85px;
 }
 
 .cinza {
