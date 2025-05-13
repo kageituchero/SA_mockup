@@ -232,3 +232,12 @@ font-size: xx-large;
 #logofuncionario {
     text-align: center;
 }
+
+.brancoAlertas {
+    background-color: white;
+    border-radius: 50px;
+    border: 0px;
+    padding: 15px;
+    text-align: center;
+    height: 650px;
+}
